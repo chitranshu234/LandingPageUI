@@ -9,6 +9,7 @@ Modern, animated landing page with bold geometric designs.
 - **Framer Motion** - Animations
 - **Lucide React** - Icons
 - **Space Grotesk** - Typography
+- **Vercel v0** - UI generation & design
 
 ## Quick Start
 
