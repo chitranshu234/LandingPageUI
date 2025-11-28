@@ -133,7 +133,7 @@ export function GeoFooter() {
         <div className="pt-8 border-t-4 border-[var(--geo-navy)]/10 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-[var(--geo-navy)]/60 font-medium">© 2025 Boldly Inc. All rights reserved.</p>
           <div className="flex items-center gap-2">
-            <span className="text-[var(--geo-navy)]/60 font-medium">Made with</span>
+            <span className="text-[var(--geo-navy)]/60 font-medium">Made </span>
             {/* <motion.div
               className="w-6 h-6 bg-[var(--geo-coral)]"
               animate={{ scale: [1, 1.2, 1] }}
