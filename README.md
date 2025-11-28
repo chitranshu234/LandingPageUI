@@ -2,6 +2,8 @@
 
 Modern, animated landing page with bold geometric designs.
 
+**Live Demo:** [https://landing-page-ui-tau.vercel.app/](https://landing-page-ui-tau.vercel.app/)
+
 ## Tech Stack
 
 - **Next.js 15** - React framework
