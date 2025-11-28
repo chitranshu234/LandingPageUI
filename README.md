@@ -1,4 +1,4 @@
-# Boldcraft
+# Boldly
 
 Modern, animated landing page with bold geometric designs.
 
