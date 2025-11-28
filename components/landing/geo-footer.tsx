@@ -134,12 +134,12 @@ export function GeoFooter() {
           <p className="text-[var(--geo-navy)]/60 font-medium">© 2025 Boldly Inc. All rights reserved.</p>
           <div className="flex items-center gap-2">
             <span className="text-[var(--geo-navy)]/60 font-medium">Made with</span>
-            <motion.div
+            {/* <motion.div
               className="w-6 h-6 bg-[var(--geo-coral)]"
               animate={{ scale: [1, 1.2, 1] }}
               transition={{ duration: 1, repeat: Number.POSITIVE_INFINITY }}
-            />
-            <span className="text-[var(--geo-navy)]/60 font-medium">by creators, for creators</span>
+            /> */}
+            <span className="text-[var(--geo-navy)]/60 font-medium">by Chitranshu Pandey, for creators</span>
           </div>
         </div>
       </div>
